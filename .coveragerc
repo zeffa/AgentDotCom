@@ -1,0 +1,5 @@
+[run]
+include = agent_ke/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
