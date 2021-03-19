@@ -26,7 +26,7 @@ gunicorn = "==19.9.0"
 psycopg2 = "==2.8.2"
 sentry-sdk = "==0.8.0"
 django-anymail = {extras = ["mailgun"],version = "==6.0.1"}
-Pillow = "==6.0.0"
+Pillow = "==8.1.1"
 Django = "==2.2.1"
 django_compressor = "==2.2"
 
